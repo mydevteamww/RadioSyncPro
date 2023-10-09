@@ -9,7 +9,9 @@
   "short_name": "RadioSync Pro",
   "start_url": "/",
   "theme_color": "#ffffff",
-  "categories": [],
+  "categories": [
+    "music"
+  ],
   "screenshots": [
     {
       "src": "images/screenshot1.png",
