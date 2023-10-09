@@ -1,0 +1,22 @@
+{
+  "background_color": "#ffffff",
+  "description": "Online Radio By Aurora Byte",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "RadioSync Pro",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "RadioSync Pro",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": [
+    {
+      "name": "RadioSync Pro",
+      "url": "",
+      "description": ""
+    }
+  ]
+}
